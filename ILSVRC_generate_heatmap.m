@@ -9,7 +9,7 @@ addpath('caffeCPU2/matlab/caffe');
 modelSetFolder = 'CAMnet';
 
 %% CAMnet 
-
+фівфі
 
 % netName = 'CAM_googlenetBVLC_imagenet';
 % model_file = [modelSetFolder '/googlenet_imagenet/bvlc_googlenet.caffemodel'];
